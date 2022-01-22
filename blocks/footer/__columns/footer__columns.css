@@ -1,0 +1,18 @@
+.footer__columns {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  margin: 60px auto 40px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
