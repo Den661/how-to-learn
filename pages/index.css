@@ -1,3 +1,5 @@
+@import url(../vendor/normalize.css);
+
 @import url(../fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
@@ -62,11 +64,12 @@
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 @import url(../blocks/kaufman/kaufman.css);
-@import url(../blocks/kaufman/triangle/triangle.css);
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 
 @import url(../blocks/resources/resourсes.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
+@import url(../blocks/resources/__image/resources__image.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);

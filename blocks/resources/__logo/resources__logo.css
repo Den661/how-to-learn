@@ -4,8 +4,3 @@
   display: flex;
   justify-content: center;
 }
-
-.resources__logo > a:hover > img {
-  transition: transform 0.2s ease-in-out;
-  transform: translate(0, -10px);
-}
